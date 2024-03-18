@@ -1,0 +1,2 @@
+URL = "https://mimjnhrzlyucfxpgbjzw.supabase.co/"
+KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im1pbWpuaHJ6bHl1Y2Z4cGdianp3Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3MDYwMTg0MTcsImV4cCI6MjAyMTU5NDQxN30.mQLy-E7nmAjNGHwRa4LjqXCtWPkJeHGyxImRcUawDpI"
